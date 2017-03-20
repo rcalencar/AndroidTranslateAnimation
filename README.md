@@ -1,5 +1,5 @@
-# TranslateAnimation - Translate animation from view A position to view B position
+# TranslateAnimation
 
-I faced the problem of how animate a TextView from a ViewGroup to another ViewGroup, as image bellow.
+TranslateAnimation from position A to position B using a View as placeholder for B.
 
-This is my solution using view as placeholder of destination position.
+<img src="https://raw.githubusercontent.com/rcalencar/AndroidTranslateAnimation/master/TranslateAnimation.gif" alt="A screenshot illustratrating the UI of the app" width="160" style="display: inline; float: right"/>
